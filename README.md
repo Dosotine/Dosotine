@@ -1,10 +1,6 @@
 - 👋 Hi, I’m @Dosotine
-- 👀 I’m currently working on L dfajiscdbhcfauibadnnaweidfethal Company
-- 🌱 I’m currently learning ...vsdbgfvsefbfhksdfbvfuisbngfjisenesdkfnsduif
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+I go to school at SWCTA
+I'm interested in 3d Unity Development
+I like exploring games like Lethal Company
 
-<!---
-Dosotine/Dosotine is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I like working with code and hope to make a difference to github
